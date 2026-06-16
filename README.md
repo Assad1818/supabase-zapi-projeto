@@ -23,11 +23,11 @@ Exemplo de registro:
 Criar um arquivo `.env` na raiz do projeto:
 
 ```env
-SUPABASE_URL=https://seu-projeto.supabase.co
-SUPABASE_KEY=sua_chave_supabase
+SUPABASE_URL=https://projeto.supabase.co
+SUPABASE_KEY=chave_supabase
 
-ZAPI_INSTANCE_ID=seu_instance_id
-ZAPI_TOKEN=seu_token
+ZAPI_INSTANCE_ID=sinstance_id
+ZAPI_TOKEN=token
 ```
 
 ## Instalação
